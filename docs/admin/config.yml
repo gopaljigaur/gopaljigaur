@@ -12,5 +12,5 @@ media_folder: "/images/uploads"
 media_library:
   name: "gopaljiml"
 collections:
-  name: "items"
-  identifier_field: "name"
+  - name: "items"
+    identifier_field: "name"
