@@ -10,7 +10,10 @@ backend:
 
 media_folder: "/images/uploads"
 media_library:
-  name: "gopaljiml"
+  name: "cloudinary"
+  config:
+    cloud_name: "gopalji.ml"
+    api_key: "puiWUW3vkHvEUTZ01Yx0nLR_si8"
 collections:
-  - name: "items"
-    identifier_field: "name"
+  - label: "Pages"
+    name: "pages"
