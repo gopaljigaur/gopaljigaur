@@ -1,9 +1,16 @@
 backend:
-  name: github
-  repo: gopaljigaur/gopaljigaur
-  branch: master
-  api_root: https://api.github.com
-  site_domain: gopalji.ml
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
-  label_prefix: netlify_cms/
+  name: "github"
+  repo: "gopaljigaur/gopaljigaur"
+  branch: "master"
+  api_root: "https://api.github.com"
+  site_domain: "gopalji.ml"
+  base_url: "https://api.netlify.com"
+  auth_endpoint: "auth"
+  label_prefix: "netlify_cms/"
+
+media_folder: "/images/uploads"
+media_library:
+  name: "gopaljiml"
+collections:
+  name: "items"
+  identifier_field: "name"
