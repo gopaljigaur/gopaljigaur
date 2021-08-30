@@ -9,6 +9,8 @@ sections:
   label: directory
   create: all
   match: "**/*"
+  templates:
+  - homepage
 - type: heading
   label: hello
 upload_dir: uploads
