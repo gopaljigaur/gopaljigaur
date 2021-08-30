@@ -1,4 +1,11 @@
 ---
 label: HomePage
 hide_body: true
-fields: []
+fields:
+- name: paper
+  type: blocks
+  label: paper
+  template_types: []
+  config:
+    min: 
+    max: 
