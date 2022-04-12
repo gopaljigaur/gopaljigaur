@@ -1,3 +1,0 @@
-Sitemap: https://gopalji.ml/sitemap.xml
-User-agent *
-Disallow:
