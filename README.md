@@ -1,6 +1,6 @@
 <p align="center">
   
-![Gopalji Gaur — Student, Developer](https://gopalji.me/static/images/banner.png)  
+<img alt="Gopalji Gaur — Student, Developer" src="https://gopalji.me/static/images/banner.png" />
 </p>
 
 <p align="center">
