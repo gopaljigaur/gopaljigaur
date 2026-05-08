@@ -15,7 +15,6 @@
 <h1 align="center">
 Hey👋, I'm Gopalji
 </h1>
-<p align="center">A CS student 💻 and an ML enthusiast 🤖.</p>
 <!--
 ---
 <p align="center">
